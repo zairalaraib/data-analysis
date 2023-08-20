@@ -1,1 +1,1 @@
-# data-analysis-projects
+# Basics of Data Analytics
