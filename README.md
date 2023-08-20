@@ -1,1 +1,1 @@
-# Basics of Data Analytics
+# Basics of Data Analysis
